@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672955744672",
+    "firebase_url": "https://cvm-app-cf53e-default-rtdb.firebaseio.com",
+    "project_id": "cvm-app-cf53e",
+    "storage_bucket": "cvm-app-cf53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672955744672:android:2c1942d6548ded9e3a24c5",
+        "android_client_info": {
+          "package_name": "com.example.cvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672955744672-cqssgob5i9v694572q7q245up2t4a6fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArVC9t2Bc476X6MMpM3GkRUWMJNfTxRrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672955744672-cqssgob5i9v694572q7q245up2t4a6fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
